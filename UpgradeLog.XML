@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InventorySolution">
+</Property><Property Name="Solution File" Value="D:\Desktop\fproject\InventorySolution.sln">
+</Property><Property Name="User Options File" Value="D:\Desktop\fproject\InventorySolution.suo">
+</Property><Property Name="Date" Value="Saturday, March 17, 2018">
+</Property><Property Name="Time" Value="7:25 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InventorySolution.sln" Description="File successfully backed up as D:\Desktop\fproject\Backup\InventorySolution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="InventorySolution.suo" Description="File successfully backed up as D:\Desktop\fproject\Backup\InventorySolution.suo">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory.vbproj" Description="Project file successfully backed up as D:\Desktop\fproject\Backup\Inventory.vbproj">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory.vbproj.user" Description="Project user file successfully backed up as D:\Desktop\fproject\Backup\Inventory.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="ApplicationEvents.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="db_transaction.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\db_transaction.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomer.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomerrbill.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomerrbill.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomerrbill.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomerrbill.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmDepartment.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmDepartment.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmDepartment.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmDepartment.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmMDI.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmMDI.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmMDI.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmMDI.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmProduct.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmProduct.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmProduct.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmProduct.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier1.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier1.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier1.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplierbill.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplierbill.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplierbill.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplierbill.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmUserAccount.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmUserAccount.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmUserAccount.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmUserAccount.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="LoginForm1.designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\LoginForm1.designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="LoginForm1.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\LoginForm1.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="SplashScreen1.Designer.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\SplashScreen1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="SplashScreen1.vb" Description="File successfully backed up as D:\Desktop\fproject\Backup\SplashScreen1.vb">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="app.config" Description="File successfully backed up as D:\Desktop\fproject\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\app.manifest" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="1294046223_user.ico" Description="File successfully backed up as D:\Desktop\fproject\Backup\1294046223_user.ico">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomer.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomer.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmcustomerrbill.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmcustomerrbill.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmDepartment.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmDepartment.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmMDI.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmMDI.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmProduct.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmProduct.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplier1.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplier1.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmsupplierbill.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmsupplierbill.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="frmUserAccount.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\frmUserAccount.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="LoginForm1.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\LoginForm1.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="SplashScreen1.resx" Description="File successfully backed up as D:\Desktop\fproject\Backup\SplashScreen1.resx">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Inventory" Source="Inventory.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InventorySolution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InventorySolution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

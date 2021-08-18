@@ -1,0 +1,330 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmcustomerbill
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmcustomerbill))
+        Me.Label22 = New System.Windows.Forms.Label
+        Me.Label23 = New System.Windows.Forms.Label
+        Me.Label24 = New System.Windows.Forms.Label
+        Me.Label25 = New System.Windows.Forms.Label
+        Me.Label26 = New System.Windows.Forms.Label
+        Me.GroupBox7 = New System.Windows.Forms.GroupBox
+        Me.DGVPrvList = New System.Windows.Forms.DataGridView
+        Me.cmdExit = New System.Windows.Forms.Button
+        Me.cmdEdit = New System.Windows.Forms.Button
+        Me.cmdDelete = New System.Windows.Forms.Button
+        Me.cmdUpdate = New System.Windows.Forms.Button
+        Me.cmdNew = New System.Windows.Forms.Button
+        Me.Label29 = New System.Windows.Forms.Label
+        Me.txtSerialNo = New System.Windows.Forms.TextBox
+        Me.cboDepartment = New System.Windows.Forms.ComboBox
+        Me.cboDesignation = New System.Windows.Forms.ComboBox
+        Me.Label2 = New System.Windows.Forms.Label
+        Me.Label3 = New System.Windows.Forms.Label
+        Me.txtqty = New System.Windows.Forms.TextBox
+        Me.Label5 = New System.Windows.Forms.Label
+        Me.Label27 = New System.Windows.Forms.Label
+        Me.GroupBox7.SuspendLayout()
+        CType(Me.DGVPrvList, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SuspendLayout()
+        '
+        'Label22
+        '
+        Me.Label22.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label22.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label22.Location = New System.Drawing.Point(444, 359)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(73, 20)
+        Me.Label22.TabIndex = 27
+        Me.Label22.Text = "F9"
+        Me.Label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label23
+        '
+        Me.Label23.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label23.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label23.Location = New System.Drawing.Point(370, 359)
+        Me.Label23.Name = "Label23"
+        Me.Label23.Size = New System.Drawing.Size(73, 20)
+        Me.Label23.TabIndex = 25
+        Me.Label23.Text = "F8"
+        Me.Label23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label24
+        '
+        Me.Label24.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label24.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label24.Location = New System.Drawing.Point(296, 359)
+        Me.Label24.Name = "Label24"
+        Me.Label24.Size = New System.Drawing.Size(73, 20)
+        Me.Label24.TabIndex = 23
+        Me.Label24.Text = "F6"
+        Me.Label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label25
+        '
+        Me.Label25.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label25.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label25.Location = New System.Drawing.Point(222, 359)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(73, 20)
+        Me.Label25.TabIndex = 21
+        Me.Label25.Text = "F5"
+        Me.Label25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label26
+        '
+        Me.Label26.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label26.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label26.Location = New System.Drawing.Point(148, 359)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(73, 20)
+        Me.Label26.TabIndex = 19
+        Me.Label26.Text = "F4"
+        Me.Label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'GroupBox7
+        '
+        Me.GroupBox7.Controls.Add(Me.DGVPrvList)
+        Me.GroupBox7.Location = New System.Drawing.Point(538, 51)
+        Me.GroupBox7.Name = "GroupBox7"
+        Me.GroupBox7.Size = New System.Drawing.Size(367, 328)
+        Me.GroupBox7.TabIndex = 29
+        Me.GroupBox7.TabStop = False
+        Me.GroupBox7.Text = "Previous List"
+        '
+        'DGVPrvList
+        '
+        Me.DGVPrvList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DGVPrvList.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.DGVPrvList.Location = New System.Drawing.Point(3, 19)
+        Me.DGVPrvList.Name = "DGVPrvList"
+        Me.DGVPrvList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.DGVPrvList.Size = New System.Drawing.Size(361, 306)
+        Me.DGVPrvList.TabIndex = 0
+        '
+        'cmdExit
+        '
+        Me.cmdExit.BackColor = System.Drawing.Color.White
+        Me.cmdExit.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdExit.Location = New System.Drawing.Point(443, 328)
+        Me.cmdExit.Name = "cmdExit"
+        Me.cmdExit.Size = New System.Drawing.Size(75, 37)
+        Me.cmdExit.TabIndex = 28
+        Me.cmdExit.Text = "Exit"
+        Me.cmdExit.UseVisualStyleBackColor = False
+        '
+        'cmdEdit
+        '
+        Me.cmdEdit.BackColor = System.Drawing.Color.White
+        Me.cmdEdit.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdEdit.Location = New System.Drawing.Point(369, 328)
+        Me.cmdEdit.Name = "cmdEdit"
+        Me.cmdEdit.Size = New System.Drawing.Size(75, 37)
+        Me.cmdEdit.TabIndex = 26
+        Me.cmdEdit.Text = "Edit"
+        Me.cmdEdit.UseVisualStyleBackColor = False
+        '
+        'cmdDelete
+        '
+        Me.cmdDelete.BackColor = System.Drawing.Color.White
+        Me.cmdDelete.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdDelete.Location = New System.Drawing.Point(295, 328)
+        Me.cmdDelete.Name = "cmdDelete"
+        Me.cmdDelete.Size = New System.Drawing.Size(75, 37)
+        Me.cmdDelete.TabIndex = 24
+        Me.cmdDelete.Text = "Delete"
+        Me.cmdDelete.UseVisualStyleBackColor = False
+        '
+        'cmdUpdate
+        '
+        Me.cmdUpdate.BackColor = System.Drawing.Color.White
+        Me.cmdUpdate.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdUpdate.Location = New System.Drawing.Point(221, 328)
+        Me.cmdUpdate.Name = "cmdUpdate"
+        Me.cmdUpdate.Size = New System.Drawing.Size(75, 37)
+        Me.cmdUpdate.TabIndex = 22
+        Me.cmdUpdate.Text = "Save"
+        Me.cmdUpdate.UseVisualStyleBackColor = False
+        '
+        'cmdNew
+        '
+        Me.cmdNew.BackColor = System.Drawing.Color.White
+        Me.cmdNew.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdNew.Location = New System.Drawing.Point(147, 328)
+        Me.cmdNew.Name = "cmdNew"
+        Me.cmdNew.Size = New System.Drawing.Size(75, 37)
+        Me.cmdNew.TabIndex = 20
+        Me.cmdNew.Text = "New"
+        Me.cmdNew.UseVisualStyleBackColor = False
+        '
+        'Label29
+        '
+        Me.Label29.AutoSize = True
+        Me.Label29.Location = New System.Drawing.Point(16, 71)
+        Me.Label29.Name = "Label29"
+        Me.Label29.Size = New System.Drawing.Size(44, 18)
+        Me.Label29.TabIndex = 0
+        Me.Label29.Text = "Bill No"
+        '
+        'txtSerialNo
+        '
+        Me.txtSerialNo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtSerialNo.Location = New System.Drawing.Point(106, 68)
+        Me.txtSerialNo.Name = "txtSerialNo"
+        Me.txtSerialNo.ReadOnly = True
+        Me.txtSerialNo.Size = New System.Drawing.Size(71, 23)
+        Me.txtSerialNo.TabIndex = 1
+        '
+        'cboDepartment
+        '
+        Me.cboDepartment.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend
+        Me.cboDepartment.FormattingEnabled = True
+        Me.cboDepartment.Items.AddRange(New Object() {"Mr.", "Mrs.", "Miss.", "M/S"})
+        Me.cboDepartment.Location = New System.Drawing.Point(106, 158)
+        Me.cboDepartment.Name = "cboDepartment"
+        Me.cboDepartment.Size = New System.Drawing.Size(235, 26)
+        Me.cboDepartment.TabIndex = 7
+        '
+        'cboDesignation
+        '
+        Me.cboDesignation.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend
+        Me.cboDesignation.FormattingEnabled = True
+        Me.cboDesignation.Items.AddRange(New Object() {"Mr.", "Mrs.", "Miss.", "M/S"})
+        Me.cboDesignation.Location = New System.Drawing.Point(106, 190)
+        Me.cboDesignation.Name = "cboDesignation"
+        Me.cboDesignation.Size = New System.Drawing.Size(235, 26)
+        Me.cboDesignation.TabIndex = 11
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(16, 161)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(55, 18)
+        Me.Label2.TabIndex = 6
+        Me.Label2.Text = "Supplier"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(16, 193)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(52, 18)
+        Me.Label3.TabIndex = 10
+        Me.Label3.Text = "Product"
+        '
+        'txtqty
+        '
+        Me.txtqty.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtqty.Location = New System.Drawing.Point(106, 222)
+        Me.txtqty.Name = "txtqty"
+        Me.txtqty.Size = New System.Drawing.Size(104, 23)
+        Me.txtqty.TabIndex = 9
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(16, 227)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(28, 18)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "Qty"
+        '
+        'Label27
+        '
+        Me.Label27.BackColor = System.Drawing.Color.Silver
+        Me.Label27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Label27.Font = New System.Drawing.Font("Verdana", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label27.ForeColor = System.Drawing.Color.DarkRed
+        Me.Label27.Location = New System.Drawing.Point(0, 0)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(908, 37)
+        Me.Label27.TabIndex = 41
+        Me.Label27.Text = "Whole Sale I Pvt Ltd"
+        '
+        'frmcustomerbill
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 18.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(908, 397)
+        Me.Controls.Add(Me.Label27)
+        Me.Controls.Add(Me.txtqty)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.cboDesignation)
+        Me.Controls.Add(Me.cboDepartment)
+        Me.Controls.Add(Me.Label22)
+        Me.Controls.Add(Me.Label23)
+        Me.Controls.Add(Me.Label24)
+        Me.Controls.Add(Me.Label25)
+        Me.Controls.Add(Me.Label26)
+        Me.Controls.Add(Me.GroupBox7)
+        Me.Controls.Add(Me.cmdExit)
+        Me.Controls.Add(Me.cmdEdit)
+        Me.Controls.Add(Me.cmdDelete)
+        Me.Controls.Add(Me.cmdUpdate)
+        Me.Controls.Add(Me.cmdNew)
+        Me.Controls.Add(Me.Label29)
+        Me.Controls.Add(Me.txtSerialNo)
+        Me.Font = New System.Drawing.Font("Trebuchet MS", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.KeyPreview = True
+        Me.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
+        Me.Name = "frmcustomerbill"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Customer Bill"
+        Me.GroupBox7.ResumeLayout(False)
+        CType(Me.DGVPrvList, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents Label22 As System.Windows.Forms.Label
+    Friend WithEvents Label23 As System.Windows.Forms.Label
+    Friend WithEvents Label24 As System.Windows.Forms.Label
+    Friend WithEvents Label25 As System.Windows.Forms.Label
+    Friend WithEvents Label26 As System.Windows.Forms.Label
+    Friend WithEvents GroupBox7 As System.Windows.Forms.GroupBox
+    Friend WithEvents DGVPrvList As System.Windows.Forms.DataGridView
+    Friend WithEvents cmdExit As System.Windows.Forms.Button
+    Friend WithEvents cmdEdit As System.Windows.Forms.Button
+    Friend WithEvents cmdDelete As System.Windows.Forms.Button
+    Friend WithEvents cmdUpdate As System.Windows.Forms.Button
+    Friend WithEvents cmdNew As System.Windows.Forms.Button
+    Friend WithEvents Label29 As System.Windows.Forms.Label
+    Friend WithEvents txtSerialNo As System.Windows.Forms.TextBox
+    Friend WithEvents cboDepartment As System.Windows.Forms.ComboBox
+    Friend WithEvents cboDesignation As System.Windows.Forms.ComboBox
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents txtqty As System.Windows.Forms.TextBox
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents Label27 As System.Windows.Forms.Label
+End Class
