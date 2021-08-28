@@ -9,3 +9,6 @@ Select the product, product quantity, add discount, supplier name, fill all deta
 Generate a customer bill.
 Take the print or share pdf.
 Log off.
+
+
+https://github.com/raisamiksha46/Inventory_System.git
